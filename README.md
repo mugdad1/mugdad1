@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @mugdad1
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++/java oop
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in mobile app dev
+- 🌱 I’m currently learning java and oop
 - 📫 How to reach me don't
-- 😄 Pronouns: idk
 - ⚡ Fun fact: i'm 23
 
 <!---
