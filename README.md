@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mugdad1
 - 👀 I’m interested in mobile app dev
 - 🌱 I’m currently learning java and oop
-- 📫 How to reach me don't
+- 📫 How to reach me (mugdad1) on discord
 - ⚡ Fun fact: i'm 23
 
 <!---
