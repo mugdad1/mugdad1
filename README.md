@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mugdad1
 - 👀 I’m interested in mobile app dev
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java & dart & python & cpp (please don't)
 - 📫 How to reach me (www.linkedin.com/in/mugdad-alhammad-a16972315)
 
 <!---
