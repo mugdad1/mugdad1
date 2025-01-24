@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mugdad1
-- 👀 I’m interested in mobile app dev and docker
+- 👀 I’m interested in mobile app dev and docker (docker is a my recent intrest thing so i know somethings)
 - 🌱 I’m currently learning java & dart cpp
 - 📫 How to reach me (www.linkedin.com/in/mugdad-alhammad-a16972315)
 or in fediverise @mugdad1@mastodon.social
