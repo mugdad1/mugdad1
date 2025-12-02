@@ -1,5 +1,5 @@
 # 👋 README
-B.Sc. student in Computer Science at king fasial university
+B.Sc. student in Computer Science at king fasial university(SA)
 
 
 ## 🌐 Socials:
