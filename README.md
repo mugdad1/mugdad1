@@ -1,11 +1,16 @@
-# 👋 README
-B.Sc. student in Computer Science at king fasial university(SA)
+# 👋 Hi, I'm Mugdad
 
+B.Sc. student in Computer Science at King Faisal University (SA).
 
-## 🌐 Socials:
+## What I work on
 
-# Stuff I’ve Wrangled (More or Less):
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![dart](https://img.shields.io/badge/dart-%230db7ed.svg?style=for-the-badge&logo=dart&logoColor=white) ![nixos](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)
+- **NixOS** — declarative flake-based systems, automated tooling
+- **Flutter** — offline-first mobile apps
+- **Study tools** — interactive learning apps with quizzes and offline support
+- **Self-hosting & homelab** — Raspberry Pi, repurposed hardware, OpenWrt
+
+# Stuff I've Wrangled (More or Less):
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230db7ed.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=fff) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
   <br><em>← My life's work</em>
 </div>
@@ -19,4 +24,4 @@ B.Sc. student in Computer Science at king fasial university(SA)
 ## 🏆 Trophies for Clicking on Things:
 
 *(Yes, I display these because validation is important)*
-![](https://github-profile-trophy.vercel.app/?username=Pix3lexe&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mugdad1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
